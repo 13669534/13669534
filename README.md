@@ -20,7 +20,7 @@
 - **No-Spread**: Removes gun spread to ensure perfect aim.
 - **Bullet TP**: Teleports bullets to the target for instant hits.
 - **Auto-Stomp**: Automatically stomps players when they are down.
-- - **Auto-Stomp on Kill**: Automatically stomps a player when they are killed.
+- **Auto-Stomp on Kill**: Automatically stomps a player when they are killed.
 - **Auto-Bring Player**: Automatically brings a player to your position (useful for HVH scenarios).
 
 
