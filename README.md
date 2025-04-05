@@ -7,6 +7,6 @@
 
 
 ## I Personally Make
-- **Anti-Cheat Solutions**: 
+- **Anti-Cheat Bypasses**: 
   - Anti-cheat bypasses for games like *Da Hood* and *Hood Customs*.
   
