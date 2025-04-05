@@ -6,7 +6,7 @@
 - **Lua**: 80%
 - **Python**: 60%
 
-## I Personally Make
+## ive made
 
 - **Anti-Cheat Bypasses**: 
   - Anti-cheat bypasses for games like *Da Hood* and *Hood Customs*.
