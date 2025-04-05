@@ -20,7 +20,3 @@
   - **Auto-Bring Player**: Automatically brings a player to your position (useful for HVH scenarios).
   - **ForceHit**: Automatically hits a specific body part (e.g., head, torso) regardless of where you aim. (mostly will always 2 tap if its on head for hood customs)
   - **Db Sniper**: Increases your db (double barrel) gun shot range. (100% 1 taps on first bullet shot.)
-
-- **Contact me on**
-- **Telegram: @directhttp**
-- **Discord: @13669534**
