@@ -1,13 +1,12 @@
 
 
-
-## My Skillset:
-- **C++**: 100% (Expert)
-- **C#**: 50% (Intermediate)
-- **Lua**: 80% (Advanced)
-- **Python**: 60% (Intermediate)
+- **C++**: 100%
+- **C#**: 50%
+- **Lua**: 80%
+- **Python**: 60%
 
 
-
-- **Anti-Cheat Solutions**: Various bypass techniques
-
+## I Personally Make
+- **Anti-Cheat Solutions**: 
+  - Anti-cheat bypasses for games like *Da Hood* and *Hood Customs*.
+  
